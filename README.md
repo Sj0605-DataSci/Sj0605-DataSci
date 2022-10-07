@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sj0605-datasci&show_icons=true&locale=en" alt="sj0605-datasci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sj0605-datasci&" alt="sj0605-datasci" /></p>
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sj0605-datasci/sj0605-datasci/blob/output/github-contribution-grid-snake.svg)
