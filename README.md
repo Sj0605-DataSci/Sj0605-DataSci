@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Huge anime weeb**
 
--🐍 [Python Resources link] (https://sj0605-datasci.github.io/)
+- 🐍 Python Resources link:https://sj0605-datasci.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
