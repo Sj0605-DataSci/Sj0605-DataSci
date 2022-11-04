@@ -1,4 +1,7 @@
-![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+
+[![@sammy0605's Holopin board](https://holopin.me/sammy0605)](https://holopin.io/@sammy0605)
+
 <h1 align="center">Hi 👋, I'm Sanyam Jain</h1>
 <h3 align="center">A passionate python developer and a data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
