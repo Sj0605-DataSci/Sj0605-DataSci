@@ -2,7 +2,7 @@
 
 [![An image of @sammy0605's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammy0605)](https://holopin.io/@sammy0605)
 
-<h1 align="center">Hi 👋, I'm Sanyam Jain</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanyam Jain </h1>
 <h3 align="center">A passionate python developer and a data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
