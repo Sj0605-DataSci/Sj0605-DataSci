@@ -1,6 +1,6 @@
 <!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 
-[![@sammy0605's Holopin board](https://holopin.me/sammy0605)](https://holopin.io/@sammy0605)
+[![An image of @sammy0605's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammy0605)](https://holopin.io/@sammy0605)
 
 <h1 align="center">Hi 👋, I'm Sanyam Jain</h1>
 <h3 align="center">A passionate python developer and a data scientist</h3>
