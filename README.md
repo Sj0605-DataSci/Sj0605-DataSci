@@ -1,18 +1,20 @@
-<!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![An image of @sammy0605's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sammy0605)](https://holopin.io/@sammy0605)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanyam Jain </h1>
-<h3 align="center">A passionate python developer and a data scientist</h3>
+<h1 align="center">Hi there <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px">, I'm Sanyam Jain </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Dual-Degree-Aspirant,;Computer+Science+Student+MUJ,;Data+Science+Student+IIT-Madras,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj0605-datasci&label=Profile%20views&color=0e75b6&style=flat" alt="sj0605-datasci" /> </p>
 
-- 🔭 I’m currently working on **data analytics projects**
+- 🔭 I’m currently working on **Open-source projects**
 
-- 🌱 I’m currently learning **JAX,OpenCV,LSTM**
+- 🌱 I’m currently learning **AWS Sagemaker, Tensorflow, Pytorch**
 
-- 💬 Ask me about **python, data, machine learning**
+- 💬 Ask me about **python, data science and machine learning**
 
 - 📫 How to reach me **sanyam0605@gmail.com**
 
@@ -38,3 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sj0605-datasci&" alt="sj0605-datasci" /></p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
